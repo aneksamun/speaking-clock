@@ -1,0 +1,8 @@
+/target
+/.lein-*
+/.nrepl-port
+.hgignore
+.hg/
+.idea/
+speaking-clock.iml
+.DS_Store
