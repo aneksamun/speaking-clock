@@ -1,5 +1,17 @@
 # Speaking clock
 
+Translates given time into words. Time is converted in 12 hours clock format.
+
+#### Examples 
+
+| Command       | Description |
+| ------------- | ------------- |
+| C w h         | Create a new canvas of width w and height h.  |
+| L x1 y1 x2 y2 | Creates a new line from (x1,y1) to (x2,y2) . Currently only horizontal or vertical lines are supported. |
+| R x1 y1 x2 y2 | Create a new rectangle, whose upper left corner is (x1,y1) and lower right corner is (x2,y2). |
+| B x y c       | Fills the entire area connected to (x,y) with specified character. |
+| Q             | Quits the program. |
+
 Translates given time to 12 hours clock words sentence. For example, "08:34" should be translated  
 
 Specification
