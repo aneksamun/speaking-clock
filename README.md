@@ -22,7 +22,7 @@ Translates given time into words. Time is converted in 12 hours clock format.
 `$ lein uberjar`   
 2. Run   
 `$ cd target/`   
-`$ java -jar speaking-clock-1.0.0-standalone.jar 19:00`   
+`$ java -jar speaking-clock-1.0-standalone.jar 19:00`   
 
 ## License
 

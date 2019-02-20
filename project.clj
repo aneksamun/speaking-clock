@@ -1,4 +1,4 @@
-(defproject speaking-clock "1.0.0"
+(defproject speaking-clock "1.0"
   :description "Tells time in English"
   :url "https://github.com/aneksamun/speaking-clock"
   :license {:name "Eclipse Public License"
