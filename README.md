@@ -1,5 +1,7 @@
 # Speaking clock
 
+![Build status](https://github.com/aneksamun/speaking-clock/actions/workflows/clojure.yml/badge.svg)
+
 Translates given time into words. Time is converted in 12 hours clock format.
 
 #### Examples 
