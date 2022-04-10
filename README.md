@@ -28,7 +28,7 @@ Translates given time into words. Time is converted in 12 hours clock format.
 
 ## License
 
-Copyright © 2018 Red Pixel Ltd
+Copyright © 2022 Red Pixel Ltd
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
